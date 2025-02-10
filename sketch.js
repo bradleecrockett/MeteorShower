@@ -6,7 +6,7 @@
 // - describe what you did to take this project "above and beyond"
 
 function setup() {
-  createCanvas(600, 600);
+  createCanvas(400, 400);
   background(240);
   // ellipseMode(CORNER);
   ellipseMode(CENTER);
